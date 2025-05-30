@@ -1,0 +1,17 @@
+.container {
+  max-width: 400px;
+  margin: 20px auto;
+  font-family: Arial, sans-serif;
+}
+
+input, select, button {
+  display: block;
+  margin: 10px 0;
+  padding: 8px;
+  width: 100%;
+  font-size: 1.1rem;
+}
+
+button {
+  cursor: pointer;
+}
